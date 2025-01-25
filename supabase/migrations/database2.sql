@@ -1,0 +1,1 @@
+ALTER TABLE stock_holdings ADD COLUMN stock_name TEXT NOT NULL DEFAULT '';
